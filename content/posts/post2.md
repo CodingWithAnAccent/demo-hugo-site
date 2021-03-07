@@ -1,7 +1,6 @@
 ---
 title: "The Decission to go to the Moon"
 date: 2021-02-21T13:56:48-05:00
-draft: true
 type: post
 summary: J F Kennedy's speech setting the goal for the United States to go to the moon. 1961
 ---

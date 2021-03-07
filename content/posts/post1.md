@@ -1,7 +1,6 @@
 ---
 title: "The Gettsburg Address"
 date: 2021-02-21T13:54:32-05:00
-draft: true
 type: post
 summary: "Abraham Lincoln's Gettsburg Address, 1863"
 ---

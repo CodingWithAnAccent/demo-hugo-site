@@ -1,7 +1,6 @@
 ---
 title: "About"
 date: 2021-02-21T08:29:35-05:00
-draft: true
 ---
 # About the Demo HUGO site
 
