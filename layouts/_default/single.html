@@ -1,0 +1,21 @@
+<html>
+{{ partial "head" . }}
+<body>
+<div class="container" >
+    {{ partial "header" (dict "Kind" .Kind "Template" "Single") }}
+    <div class="row" id="content">
+	    <div class="row">
+		    <div class="col-md-12">
+			    <h1>{{.Title}}</h1>
+		    </div>
+        </div>
+        <div class="row">
+		    <div class="col-md-12">
+			    {{.Content}}
+		    </div>
+        </div>
+    </div>
+    {{ partial "footer" . }}
+</div>
+</body>
+</html>
